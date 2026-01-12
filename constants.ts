@@ -20,7 +20,7 @@ const rawData = [
   },
   {
     category: "Best Music Video",
-    items: ["Copying Me by Ksivat", "Drei by SiCka", "Big Guy by Ksivat"]
+    items: ["Copying Me by Ksivat", "Drei by SiCka", "Big Guy by Ice Spice"]
   },
   {
     category: "Best Lyrics",
